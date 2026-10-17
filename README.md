@@ -1,7 +1,7 @@
 # Yash Bohra: Personal Portfolio
 Hand-coded with HTML, CSS and JavaScript. No frameworks, no builder tools.
 
-**Live site:** add your URL here after deploying
+**Live site:** https://yashbohra858-sketch.github.io/yash-portfolio/
 
 ## Edit
 - Links and resume: top of `main.js` (`CONFIG`). Empty values stay hidden.
